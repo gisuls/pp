@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showAudioButton="false"
+	showInfoButton="false"
+	showNavButtons="false"
+	showAutoPlayButton="false"
+	backButtonPosition="NONE"
+	backButtonUseIcon="true"
+	galleryTitlePosition="ABOVE_THUMBS"
+	maxThumbColumns="8"
+	enableDirectLinks="false"
+	useFullscreenExpand="true"
+	galleryTitle=""
+	backgroundColor="rgba(0,0,0,1)"
+	enableKeyboardControls="true"
+	enableLooping="true"
+	imageTransitionType="FADE"
+	showThumbsOnLoad="true"
+	showSmallThumbsOnLoad="true"
+	buttonBarPosition="OVERLAY"
+	buttonBarHAlign="CENTER"
+	captionHAlign="LEFT"
+	captionPosition="OVERLAY"
+
+>
+  <image imageURL="images/88 비온뒤 골목길18×25cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/88 비온뒤 골목길18×25cm Pan on Paper 2025.jpg"
+	linkURL="images/88 비온뒤 골목길18×25cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\88 비온뒤 골목길18×25cm Pan on Paper 2025.jpg">
+    <title><![CDATA[비온뒤 골목길  18×25cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/87 퇴근길 교통정체 18×25cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/87 퇴근길 교통정체 18×25cm Pan on Paper 2025.jpg"
+	linkURL="images/87 퇴근길 교통정체 18×25cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\87 퇴근길 교통정체 18×25cm Pan on Paper 2025.jpg">
+    <title><![CDATA[ 퇴근길 교통정체  18×25cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/86 바쁜사람들 25×18cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/86 바쁜사람들 25×18cm Pan on Paper 2025.jpg"
+	linkURL="images/86 바쁜사람들 25×18cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\86 바쁜사람들 25×18cm Pan on Paper 2025.jpg">
+    <title><![CDATA[바쁜사람들  25×18cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/85 버스정류장 25×18cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/85 버스정류장 25×18cm Pan on Paper 2025.jpg"
+	linkURL="images/85 버스정류장 25×18cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\85 버스정류장 25×18cm Pan on Paper 2025.jpg">
+    <title><![CDATA[버스정류장  25×18cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/84 불광동 어느골목 18×25cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/84 불광동 어느골목 18×25cm Pan on Paper 2025.jpg"
+	linkURL="images/84 불광동 어느골목 18×25cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\84 불광동 어느골목 18×25cm Pan on Paper 2025.jpg">
+    <title><![CDATA[불광동 어느골목  18×25cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/83 신호등앞 25×18cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/83 신호등앞 25×18cm Pan on Paper 2025.jpg"
+	linkURL="images/83 신호등앞 25×18cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\83 신호등앞 25×18cm Pan on Paper 2025.jpg">
+    <title><![CDATA[신호등앞   25×18cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/82 내리막 국도 18×25cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/82 내리막 국도 18×25cm Pan on Paper 2025.jpg"
+	linkURL="images/82 내리막 국도 18×25cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\82 내리막 국도 18×25cm Pan on Paper 2025.jpg">
+    <title><![CDATA[내리막 국도  18×25cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/81 국도삼거리 18×25cm Pan on Paper 2025.jpg"
+	thumbURL="thumbs/81 국도삼거리 18×25cm Pan on Paper 2025.jpg"
+	linkURL="images/81 국도삼거리 18×25cm Pan on Paper 2025.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\81 국도삼거리 18×25cm Pan on Paper 2025.jpg">
+    <title><![CDATA[국도삼거리  18×25cm Pan on Paper 2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/80-1 버스정류장의 연인 12.5×18cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/80-1 버스정류장의 연인 12.5×18cm Pan on Paper 2024.jpg"
+	linkURL="images/80-1 버스정류장의 연인 12.5×18cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\80-1 버스정류장의 연인 12.5×18cm Pan on Paper 2024.jpg">
+    <title><![CDATA[버스정류장의 연인  12.5×18cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/80 해질무렵 국도 18×25cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/80 해질무렵 국도 18×25cm Pan on Paper 2024.jpg"
+	linkURL="images/80 해질무렵 국도 18×25cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\80 해질무렵 국도 18×25cm Pan on Paper 2024.jpg">
+    <title><![CDATA[해질무렵 국도  18×25cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/79 국도내리막 18×25cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/79 국도내리막 18×25cm Pan on Paper 2024.jpg"
+	linkURL="images/79 국도내리막 18×25cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\79 국도내리막 18×25cm Pan on Paper 2024.jpg">
+    <title><![CDATA[국도내리막  18×25cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/78 공장지대 25×18cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/78 공장지대 25×18cm Pan on Paper 2024.jpg"
+	linkURL="images/78 공장지대 25×18cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\78 공장지대 25×18cm Pan on Paper 2024.jpg">
+    <title><![CDATA[공장지대  25×18cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/77 국도 12.5×18cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/77 국도 12.5×18cm Pan on Paper 2024.jpg"
+	linkURL="images/77 국도 12.5×18cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\77 국도 12.5×18cm Pan on Paper 2024.jpg">
+    <title><![CDATA[국도  12.5×18cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/76 부산 영도 노상매점 25×18cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/76 부산 영도 노상매점 25×18cm Pan on Paper 2024.jpg"
+	linkURL="images/76 부산 영도 노상매점 25×18cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\76 부산 영도 노상매점 25×18cm Pan on Paper 2024.jpg">
+    <title><![CDATA[부산 영도 노상매점  25×18cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/75 망원시장 25×18cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/75 망원시장 25×18cm Pan on Paper 2024.jpg"
+	linkURL="images/75 망원시장 25×18cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\75 망원시장 25×18cm Pan on Paper 2024.jpg">
+    <title><![CDATA[망원시장  25×18cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/74 북촌 25×18cm Marker on Paper 2024.jpg"
+	thumbURL="thumbs/74 북촌 25×18cm Marker on Paper 2024.jpg"
+	linkURL="images/74 북촌 25×18cm Marker on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\74 북촌 25×18cm Marker on Paper 2024.jpg">
+    <title><![CDATA[북촌  25×18cm Marker on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/73 광주 일곡동 25×18cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/73 광주 일곡동 25×18cm Pan on Paper 2024.jpg"
+	linkURL="images/73 광주 일곡동 25×18cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\73 광주 일곡동 25×18cm Pan on Paper 2024.jpg">
+    <title><![CDATA[광주 일곡동  25×18cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/72 카페 25×18cm Pan on Paper 2024.jpg"
+	thumbURL="thumbs/72 카페 25×18cm Pan on Paper 2024.jpg"
+	linkURL="images/72 카페 25×18cm Pan on Paper 2024.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\72 카페 25×18cm Pan on Paper 2024.jpg">
+    <title><![CDATA[카페  25×18cm Pan on Paper 2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/71 중고 지게차들 18×12.5cm Pen on Paper 2023.jpg"
+	thumbURL="thumbs/71 중고 지게차들 18×12.5cm Pen on Paper 2023.jpg"
+	linkURL="images/71 중고 지게차들 18×12.5cm Pen on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\71 중고 지게차들 18×12.5cm Pen on Paper 2023.jpg">
+    <title><![CDATA[중고 지게차들  18×12.5cm Pen on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/70 건널목 25×18cm Pan on Paper 2023.jpg"
+	thumbURL="thumbs/70 건널목 25×18cm Pan on Paper 2023.jpg"
+	linkURL="images/70 건널목 25×18cm Pan on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\70 건널목 25×18cm Pan on Paper 2023.jpg">
+    <title><![CDATA[건널목  25×18cm Pan on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/69 뒷마당 25×18cm Pan on Paper 2023.jpg"
+	thumbURL="thumbs/69 뒷마당 25×18cm Pan on Paper 2023.jpg"
+	linkURL="images/69 뒷마당 25×18cm Pan on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\69 뒷마당 25×18cm Pan on Paper 2023.jpg">
+    <title><![CDATA[시골 뒷마당  25×18cm Pan on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/68-1 거리풍경 25×18cm Pan on Paper 2023.jpg"
+	thumbURL="thumbs/68-1 거리풍경 25×18cm Pan on Paper 2023.jpg"
+	linkURL="images/68-1 거리풍경 25×18cm Pan on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\68-1 거리풍경 25×18cm Pan on Paper 2023.jpg">
+    <title><![CDATA[거리풍경  25×18cm Pan on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/68 라이브바 29×13.5cm Marker on Paper 2023.jpg"
+	thumbURL="thumbs/68 라이브바 29×13.5cm Marker on Paper 2023.jpg"
+	linkURL="images/68 라이브바 29×13.5cm Marker on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\68 라이브바 29×13.5cm Marker on Paper 2023.jpg">
+    <title><![CDATA[라이브바  29×13.5cm Marker on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/67 성수동 210×297cm Pen+Marker on Paper 2023.jpg"
+	thumbURL="thumbs/67 성수동 210×297cm Pen+Marker on Paper 2023.jpg"
+	linkURL="images/67 성수동 210×297cm Pen+Marker on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\67 성수동 210×297cm Pen+Marker on Paper 2023.jpg">
+    <title><![CDATA[성수동  210×297cm Pen+Marker on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/66-1 무현이 25×18cm Pen on Paper 2023.jpg"
+	thumbURL="thumbs/66-1 무현이 25×18cm Pen on Paper 2023.jpg"
+	linkURL="images/66-1 무현이 25×18cm Pen on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\66-1 무현이 25×18cm Pen on Paper 2023.jpg">
+    <title><![CDATA[친구  25×18cm Pen on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/66 고구마가 담긴 그릇이 있는 정물 25×18cm Pen on Paper 2023.jpg"
+	thumbURL="thumbs/66 고구마가 담긴 그릇이 있는 정물 25×18cm Pen on Paper 2023.jpg"
+	linkURL="images/66 고구마가 담긴 그릇이 있는 정물 25×18cm Pen on Paper 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\66 고구마가 담긴 그릇이 있는 정물 25×18cm Pen on Paper 2023.jpg">
+    <title><![CDATA[고구마가 담긴 그릇이 있는 정물  25×18cm Pen on Paper 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/65 비온뒤 주차장 30×30cm Acrylic on canvas 2023.jpg"
+	thumbURL="thumbs/65 비온뒤 주차장 30×30cm Acrylic on canvas 2023.jpg"
+	linkURL="images/65 비온뒤 주차장 30×30cm Acrylic on canvas 2023.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\65 비온뒤 주차장 30×30cm Acrylic on canvas 2023.jpg">
+    <title><![CDATA[비온뒤 주차장  30×30cm Acrylic on canvas 2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/64 우현로 25×18cm Marker on Paper 2022.jpg"
+	thumbURL="thumbs/64 우현로 25×18cm Marker on Paper 2022.jpg"
+	linkURL="images/64 우현로 25×18cm Marker on Paper 2022.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\64 우현로 25×18cm Marker on Paper 2022.jpg">
+    <title><![CDATA[우현로  25×18cm Marker on Paper 2022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/63 마정로 29.5×16cm Marker on Paper 2022.jpg"
+	thumbURL="thumbs/63 마정로 29.5×16cm Marker on Paper 2022.jpg"
+	linkURL="images/63 마정로 29.5×16cm Marker on Paper 2022.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\63 마정로 29.5×16cm Marker on Paper 2022.jpg">
+    <title><![CDATA[마정로  29.5×16cm Marker on Paper 2022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/62 응암시장앞 21×29.5cm Pan on Paper 2022.jpg"
+	thumbURL="thumbs/62 응암시장앞 21×29.5cm Pan on Paper 2022.jpg"
+	linkURL="images/62 응암시장앞 21×29.5cm Pan on Paper 2022.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\62 응암시장앞 21×29.5cm Pan on Paper 2022.jpg">
+    <title><![CDATA[응암시장앞  21×29.5cm Pan on Paper 2022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/61 정교리88번지 60×30cm Acrylic on canvas 2022.jpg"
+	thumbURL="thumbs/61 정교리88번지 60×30cm Acrylic on canvas 2022.jpg"
+	linkURL="images/61 정교리88번지 60×30cm Acrylic on canvas 2022.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\61 정교리88번지 60×30cm Acrylic on canvas 2022.jpg">
+    <title><![CDATA[정교리88번지  60×30cm Acrylic on canvas 2022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/60 야촌사거리 30×60cm Acrylic on canvas 2022.jpg"
+	thumbURL="thumbs/60 야촌사거리 30×60cm Acrylic on canvas 2022.jpg"
+	linkURL="images/60 야촌사거리 30×60cm Acrylic on canvas 2022.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\60 야촌사거리 30×60cm Acrylic on canvas 2022.JPG">
+    <title><![CDATA[야촌사거리  30×60cm Acrylic on canvas 2022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/59 손바닥습작 33.5×42cm Acrylic on canvas 2022.jpg"
+	thumbURL="thumbs/59 손바닥습작 33.5×42cm Acrylic on canvas 2022.jpg"
+	linkURL="images/59 손바닥습작 33.5×42cm Acrylic on canvas 2022.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\59 손바닥습작 33.5×42cm Acrylic on canvas 2022.jpg">
+    <title><![CDATA[손바닥습작  33.5×42cm Acrylic on canvas 2022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58 녹보수 21×29.5cm Marker on Paper 2021.jpg"
+	thumbURL="thumbs/58 녹보수 21×29.5cm Marker on Paper 2021.jpg"
+	linkURL="images/58 녹보수 21×29.5cm Marker on Paper 2021.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\58 녹보수 21×29.5cm Marker on Paper 2021.jpg">
+    <title><![CDATA[녹보수  21×29.5cm Marker on Paper 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/57 퇴근길 노을 45.5×16cm Acrylic on canvas 2021.jpg"
+	thumbURL="thumbs/57 퇴근길 노을 45.5×16cm Acrylic on canvas 2021.jpg"
+	linkURL="images/57 퇴근길 노을 45.5×16cm Acrylic on canvas 2021.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\57 퇴근길 노을 45.5×16cm Acrylic on canvas 2021.jpg">
+    <title><![CDATA[퇴근길 노을  45.5×16cm Acrylic on canvas 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/56 삼선슬리퍼  12.5×22.5cm Acrylic on canvas 2021.jpg"
+	thumbURL="thumbs/56 삼선슬리퍼  12.5×22.5cm Acrylic on canvas 2021.jpg"
+	linkURL="images/56 삼선슬리퍼  12.5×22.5cm Acrylic on canvas 2021.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\56 삼선슬리퍼  12.5×22.5cm Acrylic on canvas 2021.JPG">
+    <title><![CDATA[삼선슬리퍼   12.5×22.5cm Acrylic on canvas 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/55 비온뒤 하늘 45.5×16cm Acrylic on canvas 2021.jpg"
+	thumbURL="thumbs/55 비온뒤 하늘 45.5×16cm Acrylic on canvas 2021.jpg"
+	linkURL="images/55 비온뒤 하늘 45.5×16cm Acrylic on canvas 2021.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\55 비온뒤 하늘 45.5×16cm Acrylic on canvas 2021.jpg">
+    <title><![CDATA[비온뒤 하늘  45.5×16cm Acrylic on canvas 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/54 양주 14.5ⅹ21cm Marker on Paper 2021.jpg"
+	thumbURL="thumbs/54 양주 14.5ⅹ21cm Marker on Paper 2021.jpg"
+	linkURL="images/54 양주 14.5ⅹ21cm Marker on Paper 2021.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\54 양주 14.5ⅹ21cm Marker on Paper 2021.jpg">
+    <title><![CDATA[양주  14.5ⅹ21cm Marker on Paper 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/53-1 21ⅹ14.5cm Pan on Paper 2021.jpeg"
+	thumbURL="thumbs/53-1 21ⅹ14.5cm Pan on Paper 2021.jpeg"
+	linkURL="images/53-1 21ⅹ14.5cm Pan on Paper 2021.jpeg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\53-1 21ⅹ14.5cm Pan on Paper 2021.jpeg">
+    <title><![CDATA[라이브바에서  21ⅹ14.5cm Pan on Paper 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/53 기저리 10ⅹ10cm Pen on Paper 2021.jpg"
+	thumbURL="thumbs/53 기저리 10ⅹ10cm Pen on Paper 2021.jpg"
+	linkURL="images/53 기저리 10ⅹ10cm Pen on Paper 2021.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\53 기저리 10ⅹ10cm Pen on Paper 2021.jpg">
+    <title><![CDATA[기저리  10ⅹ10cm Pen on Paper 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/52 종희 14.5ⅹ21cm Pan on Paper 2021.jpg"
+	thumbURL="thumbs/52 종희 14.5ⅹ21cm Pan on Paper 2021.jpg"
+	linkURL="images/52 종희 14.5ⅹ21cm Pan on Paper 2021.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\52 종희 14.5ⅹ21cm Pan on Paper 2021.jpg">
+    <title><![CDATA[종희  14.5ⅹ21cm Pan on Paper 2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/51 만송로 3.5×42cm Acrylic on canvas 2020.jpg"
+	thumbURL="thumbs/51 만송로 3.5×42cm Acrylic on canvas 2020.jpg"
+	linkURL="images/51 만송로 3.5×42cm Acrylic on canvas 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\51 만송로 3.5×42cm Acrylic on canvas 2020.jpg">
+    <title><![CDATA[만송로  3.5×42cm Acrylic on canvas 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/50 부인터 3.5×42cm Acrylic on canvas 2020.jpg"
+	thumbURL="thumbs/50 부인터 3.5×42cm Acrylic on canvas 2020.jpg"
+	linkURL="images/50 부인터 3.5×42cm Acrylic on canvas 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\50 부인터 3.5×42cm Acrylic on canvas 2020.jpg">
+    <title><![CDATA[부인터  3.5×42cm Acrylic on canvas 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/49 의정부 14.5ⅹ21cm Marker on Paper 2020.jpg"
+	thumbURL="thumbs/49 의정부 14.5ⅹ21cm Marker on Paper 2020.jpg"
+	linkURL="images/49 의정부 14.5ⅹ21cm Marker on Paper 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\49 의정부 14.5ⅹ21cm Marker on Paper 2020.jpg">
+    <title><![CDATA[의정부  14.5ⅹ21cm Marker on Paper 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/48 수영 14.5ⅹ21cm Marker on Paper 2020.jpg"
+	thumbURL="thumbs/48 수영 14.5ⅹ21cm Marker on Paper 2020.jpg"
+	linkURL="images/48 수영 14.5ⅹ21cm Marker on Paper 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\48 수영 14.5ⅹ21cm Marker on Paper 2020.jpg">
+    <title><![CDATA[수영  14.5ⅹ21cm Marker on Paper 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/47 퇴근길 33.5×42cm Acrylic on canvas 2020.jpg"
+	thumbURL="thumbs/47 퇴근길 33.5×42cm Acrylic on canvas 2020.jpg"
+	linkURL="images/47 퇴근길 33.5×42cm Acrylic on canvas 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\47 퇴근길 33.5×42cm Acrylic on canvas 2020.jpg">
+    <title><![CDATA[퇴근길  33.5×42cm Acrylic on canvas 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/46 정교리 16×22.5cm Acrylic on canvas 2020.jpg"
+	thumbURL="thumbs/46 정교리 16×22.5cm Acrylic on canvas 2020.jpg"
+	linkURL="images/46 정교리 16×22.5cm Acrylic on canvas 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\46 정교리 16×22.5cm Acrylic on canvas 2020.jpg">
+    <title><![CDATA[정교리  16×22.5cm Acrylic on canvas 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/45 부암동 20.6×54cm Acrylic on canvas 2020.jpg"
+	thumbURL="thumbs/45 부암동 20.6×54cm Acrylic on canvas 2020.jpg"
+	linkURL="images/45 부암동 20.6×54cm Acrylic on canvas 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\45 부암동 20.6×54cm Acrylic on canvas 2020.jpg">
+    <title><![CDATA[부암동  20.6×54cm Acrylic on canvas 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/44 인상팍 15×15cm Acrylic on canvas 2020.jpg"
+	thumbURL="thumbs/44 인상팍 15×15cm Acrylic on canvas 2020.jpg"
+	linkURL="images/44 인상팍 15×15cm Acrylic on canvas 2020.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\44 인상팍 15×15cm Acrylic on canvas 2020.jpg">
+    <title><![CDATA[인상팍  15×15cm Acrylic on canvas 2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/43 홍은동 14.5ⅹ21cm Pan on Paper 2019.jpg"
+	thumbURL="thumbs/43 홍은동 14.5ⅹ21cm Pan on Paper 2019.jpg"
+	linkURL="images/43 홍은동 14.5ⅹ21cm Pan on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\43 홍은동 14.5ⅹ21cm Pan on Paper 2019.jpg">
+    <title><![CDATA[홍은동  14.5ⅹ21cm Pan on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42 부암동 14.5ⅹ21cm Pan on Paper 2019.jpg"
+	thumbURL="thumbs/42 부암동 14.5ⅹ21cm Pan on Paper 2019.jpg"
+	linkURL="images/42 부암동 14.5ⅹ21cm Pan on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\42 부암동 14.5ⅹ21cm Pan on Paper 2019.jpg">
+    <title><![CDATA[부암동  14.5ⅹ21cm Pan on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/41 거실 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	thumbURL="thumbs/41 거실 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	linkURL="images/41 거실 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\41 거실 14.5ⅹ21cm Marker on Paper 2019.jpg">
+    <title><![CDATA[거실  14.5ⅹ21cm Marker on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/40 양주 21ⅹ14.5cm Marker on Paper 2019.jpg"
+	thumbURL="thumbs/40 양주 21ⅹ14.5cm Marker on Paper 2019.jpg"
+	linkURL="images/40 양주 21ⅹ14.5cm Marker on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\40 양주 21ⅹ14.5cm Marker on Paper 2019.jpg">
+    <title><![CDATA[양주   21ⅹ14.5cm Marker on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/39 볼록 26.5×26.5cm Pen on Paper 2019.jpg"
+	thumbURL="thumbs/39 볼록 26.5×26.5cm Pen on Paper 2019.jpg"
+	linkURL="images/39 볼록 26.5×26.5cm Pen on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\39 볼록 26.5×26.5cm Pen on Paper 2019.jpg">
+    <title><![CDATA[볼록  26.5×26.5cm Pen on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/38 고모리 12ⅹ21cm Pan on Paper 2019.jpg"
+	thumbURL="thumbs/38 고모리 12ⅹ21cm Pan on Paper 2019.jpg"
+	linkURL="images/38 고모리 12ⅹ21cm Pan on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\38 고모리 12ⅹ21cm Pan on Paper 2019.jpg">
+    <title><![CDATA[고모리  12ⅹ21cm Pan on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/37 힐스테이트 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	thumbURL="thumbs/37 힐스테이트 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	linkURL="images/37 힐스테이트 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\37 힐스테이트 14.5ⅹ21cm Marker on Paper 2019.jpg">
+    <title><![CDATA[힐스테이트  14.5ⅹ21cm Marker on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/36 정물 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	thumbURL="thumbs/36 정물 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	linkURL="images/36 정물 14.5ⅹ21cm Marker on Paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\36 정물 14.5ⅹ21cm Marker on Paper 2019.jpg">
+    <title><![CDATA[정물  14.5ⅹ21cm Marker on Paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/35 세젤예 45×30cm Acrylic on wood 2019.jpg"
+	thumbURL="thumbs/35 세젤예 45×30cm Acrylic on wood 2019.jpg"
+	linkURL="images/35 세젤예 45×30cm Acrylic on wood 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\35 세젤예 45×30cm Acrylic on wood 2019.JPG">
+    <title><![CDATA[세젤예  45×30cm Acrylic on wood 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/34 Na 40×60cm Acrylic on wood 2019 .jpg"
+	thumbURL="thumbs/34 Na 40×60cm Acrylic on wood 2019 .jpg"
+	linkURL="images/34 Na 40×60cm Acrylic on wood 2019 .jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\34 Na 40×60cm Acrylic on wood 2019 .jpg">
+    <title><![CDATA[Na  40×60cm Acrylic on wood 2019 ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/41 가산면 하늘 16×45.5cm Acrylic on canvas 2019.jpg"
+	thumbURL="thumbs/41 가산면 하늘 16×45.5cm Acrylic on canvas 2019.jpg"
+	linkURL="images/41 가산면 하늘 16×45.5cm Acrylic on canvas 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\41 가산면 하늘 16×45.5cm Acrylic on canvas 2019.jpg">
+    <title><![CDATA[가산면 하늘  16×45.5cm Acrylic on canvas 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33 모녀 60×40cm Marker on paper 2019.jpg"
+	thumbURL="thumbs/33 모녀 60×40cm Marker on paper 2019.jpg"
+	linkURL="images/33 모녀 60×40cm Marker on paper 2019.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\33 모녀 60×40cm Marker on paper 2019.jpg">
+    <title><![CDATA[모녀  60×40cm Marker on paper 2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/32 LK Bakeware Photoshop Drawing 2018.jpg"
+	thumbURL="thumbs/32 LK Bakeware Photoshop Drawing 2018.jpg"
+	linkURL="images/32 LK Bakeware Photoshop Drawing 2018.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\32 LK Bakeware Photoshop Drawing 2018.jpg">
+    <title><![CDATA[LK Bakeware  Photoshop Drawing 2018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/31-1 용광 2015.jpg"
+	thumbURL="thumbs/31-1 용광 2015.jpg"
+	linkURL="images/31-1 용광 2015.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\31-1 용광 2015.jpg">
+    <title><![CDATA[용광   2015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/31 2016 .jpeg"
+	thumbURL="thumbs/31 2016 .jpeg"
+	linkURL="images/31 2016 .jpeg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\31 2016 .jpeg">
+    <title><![CDATA[가족  Photoshop Drawing 2016 ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/30 gaon Photoshop Drawing 2015.jpg"
+	thumbURL="thumbs/30 gaon Photoshop Drawing 2015.jpg"
+	linkURL="images/30 gaon Photoshop Drawing 2015.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\30 gaon Photoshop Drawing 2015.jpg">
+    <title><![CDATA[가온   Photoshop Drawing 2015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/29 family  Photoshop Drawing 2014.jpg"
+	thumbURL="thumbs/29 family  Photoshop Drawing 2014.jpg"
+	linkURL="images/29 family  Photoshop Drawing 2014.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\29 family  Photoshop Drawing 2014.jpg">
+    <title><![CDATA[가족   Photoshop Drawing 2014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/28 gaon 2013.jpg"
+	thumbURL="thumbs/28 gaon 2013.jpg"
+	linkURL="images/28 gaon 2013.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\28 gaon 2013.jpg">
+    <title><![CDATA[가온  Photoshop Drawing 2013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27 portrait Photoshop Drawing 2013.jpg"
+	thumbURL="thumbs/27 portrait Photoshop Drawing 2013.jpg"
+	linkURL="images/27 portrait Photoshop Drawing 2013.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\27 portrait Photoshop Drawing 2013.jpg">
+    <title><![CDATA[Portrait   Photoshop Drawing 2013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26 gaon 2012.jpg"
+	thumbURL="thumbs/26 gaon 2012.jpg"
+	linkURL="images/26 gaon 2012.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\26 gaon 2012.jpg">
+    <title><![CDATA[가온    2012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25 gaon 2011.jpg"
+	thumbURL="thumbs/25 gaon 2011.jpg"
+	linkURL="images/25 gaon 2011.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\25 gaon 2011.jpg">
+    <title><![CDATA[가온   2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24 gaon 2011.jpg"
+	thumbURL="thumbs/24 gaon 2011.jpg"
+	linkURL="images/24 gaon 2011.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\24 gaon 2011.jpg">
+    <title><![CDATA[가온   2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23 portrait Photoshop Drawing 2011.jpg"
+	thumbURL="thumbs/23 portrait Photoshop Drawing 2011.jpg"
+	linkURL="images/23 portrait Photoshop Drawing 2011.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\23 portrait Photoshop Drawing 2011.jpg">
+    <title><![CDATA[Portrait   Photoshop Drawing 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22 portrait Photoshop Drawing 2009.jpg"
+	thumbURL="thumbs/22 portrait Photoshop Drawing 2009.jpg"
+	linkURL="images/22 portrait Photoshop Drawing 2009.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\22 portrait Photoshop Drawing 2009.jpg">
+    <title><![CDATA[Portrait   Photoshop Drawing 2009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21 portrait Photoshop Drawing 2009.jpg"
+	thumbURL="thumbs/21 portrait Photoshop Drawing 2009.jpg"
+	linkURL="images/21 portrait Photoshop Drawing 2009.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\21 portrait Photoshop Drawing 2009.jpg">
+    <title><![CDATA[Portrait   Photoshop Drawing 2009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20 portrait Photoshop Drawing 2009.jpg"
+	thumbURL="thumbs/20 portrait Photoshop Drawing 2009.jpg"
+	linkURL="images/20 portrait Photoshop Drawing 2009.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\20 portrait Photoshop Drawing 2009.jpg">
+    <title><![CDATA[Portrait    Photoshop Drawing 2009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19 portrait Photoshop Drawing 2008.jpg"
+	thumbURL="thumbs/19 portrait Photoshop Drawing 2008.jpg"
+	linkURL="images/19 portrait Photoshop Drawing 2008.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\19 portrait Photoshop Drawing 2008.jpg">
+    <title><![CDATA[Portrait   Photoshop Drawing 2008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/17 Hand 1999.jpg"
+	thumbURL="thumbs/17 Hand 1999.jpg"
+	linkURL="images/17 Hand 1999.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\17 Hand 1999.jpg">
+    <title><![CDATA[Hand 1999]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/16 na 21×29.5cm Watercolor 1996.jpg"
+	thumbURL="thumbs/16 na 21×29.5cm Watercolor 1996.jpg"
+	linkURL="images/16 na 21×29.5cm Watercolor 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\16 na 21×29.5cm Watercolor 1996.jpg">
+    <title><![CDATA[NA  21×29.5cm Watercolor 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	thumbURL="thumbs/15 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkURL="images/15 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\15 ami alone 21×29.5cm Pan on Paper 1996.jpg">
+    <title><![CDATA[ami alone   21×29.5cm Pan on Paper 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14 na 21×29.5cm Pan on Paper 1996.jpg"
+	thumbURL="thumbs/14 na 21×29.5cm Pan on Paper 1996.jpg"
+	linkURL="images/14 na 21×29.5cm Pan on Paper 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\14 na 21×29.5cm Pan on Paper 1996.jpg">
+    <title><![CDATA[NA  21×29.5cm Pan on Paper 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13 na enamel paint.jpg"
+	thumbURL="thumbs/13 na enamel paint.jpg"
+	linkURL="images/13 na enamel paint.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\13 na enamel paint.jpg">
+    <title><![CDATA[NA  enamel paint 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12 na 21×29.5cm Pan on Paper 1996.jpg"
+	thumbURL="thumbs/12 na 21×29.5cm Pan on Paper 1996.jpg"
+	linkURL="images/12 na 21×29.5cm Pan on Paper 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\12 na 21×29.5cm Pan on Paper 1996.jpg">
+    <title><![CDATA[NA  21×29.5cm Pan on Paper 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11 portrait 1996.jpg"
+	thumbURL="thumbs/11 portrait 1996.jpg"
+	linkURL="images/11 portrait 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\11 portrait 1996.jpg">
+    <title><![CDATA[Portrait 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10 man Watercolor 1996.jpg"
+	thumbURL="thumbs/10 man Watercolor 1996.jpg"
+	linkURL="images/10 man Watercolor 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\10 man Watercolor 1996.jpg">
+    <title><![CDATA[Man  Watercolor 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/09 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	thumbURL="thumbs/09 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkURL="images/09 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\09 ami alone 21×29.5cm Pan on Paper 1996.jpg">
+    <title><![CDATA[ami alone   21×29.5cm Pan on Paper 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/08 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	thumbURL="thumbs/08 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkURL="images/08 ami alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\08 ami alone 21×29.5cm Pan on Paper 1996.jpg">
+    <title><![CDATA[ami alone   21×29.5cm Pan on Paper 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/07-1 portrait 1996.jpg"
+	thumbURL="thumbs/07-1 portrait 1996.jpg"
+	linkURL="images/07-1 portrait 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\07-1 portrait 1996.jpg">
+    <title><![CDATA[portrait   1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/07 portrait 1996.jpg"
+	thumbURL="thumbs/07 portrait 1996.jpg"
+	linkURL="images/07 portrait 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\07 portrait 1996.jpg">
+    <title><![CDATA[portrait   1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/06 am i alone 21×29.5cm Pan on Paper 1996.jpg"
+	thumbURL="thumbs/06 am i alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkURL="images/06 am i alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\06 am i alone 21×29.5cm Pan on Paper 1996.jpg">
+    <title><![CDATA[am i alone   21×29.5cm Pan on Paper 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/05 am i alone 21×29.5cm Pan on Paper 1996.jpg"
+	thumbURL="thumbs/05 am i alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkURL="images/05 am i alone 21×29.5cm Pan on Paper 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\05 am i alone 21×29.5cm Pan on Paper 1996.jpg">
+    <title><![CDATA[am i alone   21×29.5cm Pan on Paper 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04 am i alone enamel paint 1996.jpg"
+	thumbURL="thumbs/04 am i alone enamel paint 1996.jpg"
+	linkURL="images/04 am i alone enamel paint 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\04 am i alone enamel paint 1996.jpg">
+    <title><![CDATA[am i alone   enamel paint 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03 am i alone blackboard, enamel paint 1996.jpg"
+	thumbURL="thumbs/03 am i alone blackboard, enamel paint 1996.jpg"
+	linkURL="images/03 am i alone blackboard, enamel paint 1996.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\03 am i alone blackboard, enamel paint 1996.jpg">
+    <title><![CDATA[am i alone   blackboard, enamel paint 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/02 who are you 21×29.5cm Watercolor 1995.jpg"
+	thumbURL="thumbs/02 who are you 21×29.5cm Watercolor 1995.jpg"
+	linkURL="images/02 who are you 21×29.5cm Watercolor 1995.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\02 who are you 21×29.5cm Watercolor 1995.jpg">
+    <title><![CDATA[who are you   21×29.5cm Watercolor 1995]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/01 who are you 21×29.5cm Pan on Paper 1995.jpg"
+	thumbURL="thumbs/01 who are you 21×29.5cm Pan on Paper 1995.jpg"
+	linkURL="images/01 who are you 21×29.5cm Pan on Paper 1995.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\잡동\Gisuls Home\img\01 who are you 21×29.5cm Pan on Paper 1995.jpg">
+    <title><![CDATA[who are you   21×29.5cm Pan on Paper 1995]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
